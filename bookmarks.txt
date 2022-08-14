@@ -1,0 +1,10 @@
+[bnb-int8 - temp]
+https://github.com/TimDettmers/bitsandbytes
+https://gist.github.com/younesbelkada/073f0b7902cbed2cbff662996a74162e
+https://docs.google.com/document/d/1JxSo4lQgMDBdnd19VBEoaG-mMfQupQ3XvOrgmRAVtpU/edit
+https://colab.research.google.com/drive/1qOjXfQIAULfKvZqwCen8-MoWKGdSatZ4
+https://huggingface.co/docs/accelerate/usage_guides/big_modeling
+https://github.com/huggingface/notebooks/blob/main/sagemaker/17_custom_inference_script/sagemaker-notebook.ipynb
+https://github.com/marshmellow77/sm-bnb-transformers/blob/main/notebook.ipynb
+https://github.com/marshmellow77/sm-bnb-transformers
+https://huggingface.co/docs/transformers/v4.18.0/en/main_classes/text_generation
